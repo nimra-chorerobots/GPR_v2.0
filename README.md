@@ -1,8 +1,10 @@
 # Physical-AI Subsurface Perception using GPR
 
-This repository implements a **Physical-AI perception stack** for autonomous robots equipped with Ground-Penetrating Radar (GPR).
+This repository implements a Physical-AI perception stack for autonomous robots equipped with Ground-Penetrating Radar (GPR). 
 
 The system allows robots to reason about buried hazards before physical interaction, enabling pre-emptive safety behavior instead of reactive collision avoidance. Therefore, this repository includes a live visualization interface that converts raw GPR signals into real-time subsurface perception displays, making underground hazards directly observable to operators and developers.
+
+
 ---
 
 ## 🧠 Perception Pipeline
